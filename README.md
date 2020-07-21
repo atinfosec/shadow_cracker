@@ -1,5 +1,5 @@
 # shadow_cracker
-This bash script takes shadow file and crack kit using openssl
+This bash script takes shadow file and crack it using openssl
 
 Steps to run this tool
     
